@@ -1,0 +1,3 @@
+This project analyzes a hospital dataset(the same used for Power BI project) using Python, Pandas, and Matplotlib. 
+It includes basic data cleaning, creating a new Age_Group column, grouping and counting records, and visualizations such as a bar chart (department-wise patients), pie charts (insurance and age groups), and an age histogram. 
+The script also prints simple summary insights like total patients, most common age group, and average treatment cost.
